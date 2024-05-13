@@ -1,2 +1,2 @@
-env/
+/agro_app/env/
 git rm -r --cached env
