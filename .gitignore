@@ -1,1 +1,2 @@
 /agro_app/env/
+git rm -r --cached agro_app/env/
