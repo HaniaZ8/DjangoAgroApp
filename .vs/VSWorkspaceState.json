@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\agro_app"
+    "\\agro_app",
+    "\\agro_app\\agro_app",
+    "\\agro_app\\website"
   ],
+  "SelectedNode": "\\agro_app\\website\\urls.py",
   "PreviewInSolutionExplorer": false
 }
